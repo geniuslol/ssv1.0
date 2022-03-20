@@ -1,0 +1,25 @@
+h1 {
+    text-align:center;
+}
+h3 {
+    text-align:center;
+}
+#summary {
+    text-align:center;
+}
+#tos {
+    text-align: center;
+}
+#aoe {
+    text-align: center;
+}
+#solutions {
+    text-align: center;
+}
+.bigbreak {
+    padding-bottom:60px;
+    font-size:20px;
+}
+html {
+    scroll-behavior: smooth;
+}
